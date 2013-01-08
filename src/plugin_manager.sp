@@ -12,8 +12,8 @@
 
 #define PM_VERSION "1.0.0-dev"
 
-#define PM_URL_SEARCH        "http://mitchdb.herokuapp.com/api/v2/ping"
-#define PM_URL_CHECK         "http://mitchdb.herokuapp.com/api/v2/bans?api_key=%s"
+#define PM_URL_SEARCH        "http://sm-plugin-manager.herokuapp.com/api/search"
+#define PM_URL_CHECK         "http://sm-plugin-manager.herokuapp.com/api/check"
 
 
 
